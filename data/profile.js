@@ -44,9 +44,9 @@ const profileData = {
     ],
     experiences: [
       {
-        organization: "Gameskraft",
-        title: "Senior Software Engineer",
-        date: "Dec 2022 - Present",
+        organization: "HappiestMinds Technologies",
+        title: "Senior Technical Lead",
+        date: "Jan 2022 - Present",
         details: [
           `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
           <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
@@ -59,9 +59,9 @@ const profileData = {
         ],
       },
       {
-        organization: "Flipkart Internet Pvt Ltd",
-        title: `UI Engineer 1`,
-        date: "Jun 2021 - Nov 2022",
+        organization: "NTTData",
+        title: `System Admin Specialist`,
+        date: "Oct 2017 - May 2022",
         details: [
           `As part of the <strong>Pricing and Promotion Team</strong>, worked on the migration of legacy projects from <strong>AngularJS to React-Redux</strong>, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
           `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
